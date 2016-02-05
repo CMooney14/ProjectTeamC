@@ -1,0 +1,17 @@
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WcsAppMDI1.csprojResolveAssemblyReference.cache
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Customer.resources
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Inventory_Control.resources
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Main.resources
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.ManagerApproval.resources
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Payment.resources
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.QualityControl.resources
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WcsAppMDI1.csproj.GenerateResource.Cache
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Order.resources
+C:\Users\C\Documents\Visual Studio 2015\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Splash.resources
